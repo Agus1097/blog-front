@@ -1,0 +1,21 @@
+.not-post-component {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.post-image-container {
+    width: 250px;
+    text-align: center;
+}
+
+.not-post-component object {
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.not-post-component h2 {
+    margin-bottom: 50px;
+    color: #e6e6e6;
+}
