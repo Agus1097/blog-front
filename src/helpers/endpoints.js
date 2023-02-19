@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:8080";
+const API_URL = "http://54.86.66.91:8080";
 
 export const LOGIN_ENDPOINT = API_URL + "/users/login";
 export const REGISTER_ENDPOINT = API_URL + "/users";
